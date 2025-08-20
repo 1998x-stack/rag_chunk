@@ -1,0 +1,8 @@
+loguru==0.7.2
+tqdm==4.66.4
+numpy==1.26.4
+scikit-learn==1.5.1
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+PyPDF2==3.0.1
+regex==2024.5.15
